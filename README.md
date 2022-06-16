@@ -1,0 +1,4 @@
+# Tempest MIDI Player
+Esse projeto reproduz as notas musicais que recebe de uma interface MIDI (Web MIDI API). A reprodução se dá através de interferência Tempest (ver repositório tempest-music-box para maiores informações) bem como através do auto-falante (WebAudio API, mais especificamente uma interface de abstração demonstrada no repositório pseudo-audio-context). Pode ser visto como uma versão 2.0 para a Prova-de-conceito demonstrado anteriormente em tempest-music-box.
+
+This project reproduces the musical notes received via MIDI interface (Web MIDI API). Sound waves are sent both through Tempest interference (see repo tempest-music-box for more information) as well as through speakers (WebAudio API, more specifically an abstraction interface explained at pseudo-audio-context repo). This can the seen as a version 2.0 to the Proof of concept previously demonstrated at tempest-music-box. 
